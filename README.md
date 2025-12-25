@@ -1,13 +1,19 @@
 # 📘 TUF DSA Notes
 
 ## 📌 Introduction
-These are my personal DSA notes.
+These are my personal DSA notes while preparing from Striver TUF roadmap.
+
+---
 
 ## 📍 Topics
 
+- [Know Basic Maths](1.%20Know%20Basic%20Maths/README.md)
 
-- [1. Count digits in a number](1.%20Count%20digits%20in%20a%20number.md)
-
+---
 
 ## 🧠 Notes Format
-I will add explanations, code, and examples.
+Each topic contains:
+- Problem statement
+- Explanation
+- Java code
+- Examples
