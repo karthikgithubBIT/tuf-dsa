@@ -4,7 +4,7 @@
 These are my personal DSA notes.
 
 ## 📍 Topics
-[1. Know Basic Maths](./1.%20Know%20Basic%20Maths)
+- [1. Count digits in a number](1.%20Count%20digits%20in%20a%20number.md)
 
 ## 🧠 Notes Format
 I will add explanations, code, and examples.
