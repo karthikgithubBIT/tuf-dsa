@@ -5,8 +5,12 @@ These are my personal DSA notes while preparing from Striver TUF roadmap.
 
 ---
 
-## 📍 Topics
-- [1. Know Basic Maths](1.%20Know%20Basic%20Maths/README.md)
+# 📘 Know Basic Maths
+
+## 📌 Problems
+
+- [1. Count digits in a number](1.%20Count%20digits%20in%20a%20number/README.md)
+
 
 
 ---
