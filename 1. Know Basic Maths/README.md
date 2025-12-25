@@ -6,6 +6,7 @@
 - [2. Reverse Digits of A Number](2.%20Reverse%20Digits%20of%20A%20Number.md)
 - [3. Check if a number is Palindrome or Not](3.%20Check%20if%20a%20number%20is%20Palindrome%20or%20Not.md)
 - [4. Find GCD of two numbers](4.%20Find%20GCD%20of%20two%20numbers.md)
+- [5. Check if a number is Armstrong Number or not](5.%20Check%20if%20a%20number%20is%20Armstrong%20Number%20or%20not.md)
 
 
 
