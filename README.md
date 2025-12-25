@@ -6,8 +6,8 @@ These are my personal DSA notes while preparing from Striver TUF roadmap.
 ---
 
 ## 📍 Topics
+- [1. Know Basic Maths](1.%20Know%20Basic%20Maths/README.md)
 
-- [Know Basic Maths](1.%20Know%20Basic%20Maths/README.md)
 
 ---
 
